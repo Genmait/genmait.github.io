@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+
+h1, h2 {
+    color: #391996;
+    font-size: 40px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 20px;
+
+}
+
+p {
+    font-size: 16px;
+    text-align: justify;
+    font-family: monospace;
+}
